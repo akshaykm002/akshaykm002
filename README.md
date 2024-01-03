@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akshay KM
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning MEARN Stack
-- 💞️ I’m looking to collaborate on responsive projects
+- 🌱 I’m currently learning MERN Stack
+- 💞️ I’m looking to collaborate on Full Stack responsive projects
 - 📫 How to reach me - akshaykm002@gmail.com
   
 
